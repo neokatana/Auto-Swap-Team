@@ -1,0 +1,123 @@
+﻿"Phrases"
+{
+	"advert_time"
+	{
+		"#format"		"{1:d}"
+		"en"			"WARNING: The teams will be exchanged after {1} minutes!"
+		"es"			"ATENCIÓN: Los equipos se cambiarán después de que pasen {1} minutos!"
+		"pl"			"UWAGA: Drużyny zostaną zamienione po upływie {1} minut(y)!"
+        "pt"			"ATENCAO: Os times serao trocados apos {1} min!"
+		"tr"			"DİKKAT: Takımlar {1} dakika sonra otomatik olarak değişecek!"
+	}
+
+	"advert_rounds"
+	{
+		"#format"		"{1:d}"
+        "en"			"WARNING: The teams will be exchanged after {1} rounds!"
+		"es"			"ATENCIÓN: Los equipos se cambiarán después de que pasen {1} rondas!"
+        "pl"			"UWAGA: Drużyny zostaną zamienione po {1} rund(dzie/ach)!"
+		"pt"			"ATENCAO: Os times serao trocados apos {1} rodadas!"
+		"tr"			"DİKKAT: Takımlar {1} dakika sonra otomatik olarak değişecek!"
+	}
+
+	"advert_wins"
+	{
+		"#format"		"{1:d}"
+        "en"			"WARNING: The teams will be changed when a win {1} rounds!"
+		"es"			"ATENCIÓN: Los equipos se cambiarán cuando uno de los dos equipos gane {1} rondas!"
+        "pl"			"UWAGA: Drużyny zostaną zamienione po {1} wygranych rund(dzie/ach)!"
+		"pt"			"ATENCAO: Os times serao trocados quando um ganhar {1} rodadas!"
+        "tr"			"DİKKAT: Takımlar {1} dakika sonra otomatik olarak değişecek!"
+	}
+
+	"advert_frags"
+	{
+		"#format"		"{1:d}"
+		"en"			"WARNING: The teams will be changed when a player reaches {1} points!"
+		"es"			"ATENCIÓN: Los equipos se cambiarán cuando un jugador alcance {1} puntos!"
+		"pl"			"UWAGA: Drużyny zostaną zamienione gdy gracz uzyska {1} punkt(ów)!"
+		"pt"			"ATENCAO: Os times serao trocados quando um jogador atingir {1} pontos!"
+        "tr"			"DİKKAT: Bir oyuncu {1} puan kazandığında takımlar otomatik olarak değişecek!"
+	}
+
+	"advert_will_swap"
+	{
+        "en"			"WARNING: The teams will be exchanged at the end of this round!"
+		"es"			"ATENCIÓN: Los equipos se cambiarán cuando termine esta ronda!"
+        "pl"			"UWAGA: Drużyny zostaną zamienione pod koniec aktualnej rundy!"
+		"pt"			"ATENCAO: Os Times serao trocados ao final desta rodada!"
+		"tr"			"DİKKAT: Raund sonunda takımlar otomatik olarak değişecek!"
+    }
+
+	"advert_were_swap"
+	{
+        "en"			"WARNING: The teams were swapped!"
+		"es"			"ATENCIÓN: Los equipos han sido cambiados!"
+        "pl"			"UWAGA: Drużyny zostaną zamienione!"
+		"pt"			"ATENCAO: Os times foram trocados!"
+   		"tr"			"DİKKAT: Takımlar değişti!"
+	}
+
+	"invalid_steamid"
+	{
+		"en"			"STEAM ID invalid!"
+		"es"			"STEAM ID inválida!"
+		"pl"			"Niepoprawny STEAM ID!"
+		"pt"			"STEAM ID invalida!"
+		"tr"			"STEAM geçersiz!"
+	}
+
+	"invalid_immunity"
+	{
+		"en"			"IMMUNITY invalid!"
+		"es"			"IMMUNIDAD inválida!"
+		"pl"			"Niepoprawny IMMUNITET!"
+		"pt"			"IMUNIDADE invalida!"
+        "tr"			"DOKUNULMAZLIK geçersiz!"
+	}
+
+	"immunity_add_success"
+	{
+		"en"			"STEAM ID successfully added!"
+		"es"			"STEAM ID añadida correctamente!"
+		"pl"			"STEAM ID pomyślnie dodany!"
+		"pt"			"STEAM ID adicionada com sucesso!"
+        "tr"			"STEAM başarıyla eklendi!"
+	}
+
+	"immunity_add_error"
+	{
+		"en"			"ERROR: fails to add STEAM ID..."
+		"es"			"ERROR: Fallo al añadir STEAM ID..."
+		"pl"			"BŁĄD: niepowodzenie podczas dodawania STEAM ID..."
+		"pt"			"ERRO: falha ao tentar adicionar STEAM ID..." 
+   		"tr"			"HATA: STEAM ekleme hatası..."
+	}
+
+	"immunity_get_error"
+	{
+		"en"			"ERROR: fails to consult immunity..."
+		"es"			"ERROR: fallo al consultar immunidad..."
+		"pl"			"BŁĄD: niepowodzenie podczas konsultacji? immunitetu..."
+		"pt"			"ERRO: falha ao tentar consultar imunidade..."
+   		"tr"			"HATA: dokunulmazlık girişimi başarısız..."
+	}
+
+	"immunity_del_success"
+	{
+		"en"			"STEAM ID successfully removed!"
+		"es"			"STEAM ID eliminada con éxito!"
+		"pl"			"STEAM ID pomyślnie usunięte!"
+		"pt"			"STEAM ID removida com sucesso!"
+        "tr"			"STEAM başarı ile çıkarıldı!"
+	}
+
+	"immunity_del_error"
+	{
+		"en"			"ERROR: fails to remove STEAM ID..."
+		"es"			"ERROR: fallo al eliminar STEAM ID..."
+		"en"			"BŁĄD: błąd podczas usuwania STEAM ID..."
+		"pt"			"ERRO: falha ao tentar remover STEAM ID..."
+        "tr"			"ERROR: STEAM ID çıkarma hatası..."
+	}
+}
